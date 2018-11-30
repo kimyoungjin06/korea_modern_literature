@@ -3,6 +3,6 @@
 
 # Download
 ```linux
-$wget https://raw.githubusercontent.com/kimyoungjin06/korea_modern_poetry/master/400_korea_modern_poetry.txt
+$wget https://raw.githubusercontent.com/kimyoungjin06/korea_modern_literature/master/400_korea_modern_poetry.txt
 ```
 :)
